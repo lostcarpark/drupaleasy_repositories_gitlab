@@ -1,0 +1,7 @@
+drupaleasy_repositories_gitlab.settings_form:
+  path: '/admin/config/services/repositories-gitlab'
+  defaults:
+    _title: 'Drupaleasy Repositories GitLab settings'
+    _form: 'Drupal\drupaleasy_repositories_gitlab\Form\SettingsForm'
+  requirements:
+    _permission: 'configure drupaleasy repositories'

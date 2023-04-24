@@ -1,0 +1,6 @@
+drupaleasy_repositories_gitlab.settings_form:
+  title: 'Drupaleasy Repositories GitLab Settings'
+  description: 'Configure Drupaleasy Repositories GitLab instances.'
+  parent: system.admin_config_services
+  route_name: drupaleasy_repositories_gitlab.settings_form
+  weight: 12

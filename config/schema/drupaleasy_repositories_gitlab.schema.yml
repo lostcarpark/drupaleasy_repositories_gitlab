@@ -1,0 +1,8 @@
+# Schema for the configuration files of the Drupaleasy Repositories GitLab module.
+drupaleasy_repositories_gitlab.settings:
+  type: config_object
+  label: 'Drupaleasy Repositories GitLab settings'
+  mapping:
+    example:
+      type: string
+      label: 'Example'
